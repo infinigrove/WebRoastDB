@@ -22,4 +22,14 @@ You will need to make the Python Pyro4 module available for Apache.  This can be
 
 You will have to place the contents of the WebRoastDB folder where it can be accessed by Apache.  I recommend placing it in the /var/www/html/ directory.  Then open your web browser to http://localhost/WebRoastDB/
 
+# Configuration
+
+See config.php
+
+# Todo
+
+- Interface for creating, maintaining and updating recipies
+- Security (could setup .htaccess authentication if needed)
+- Styling
+
 Happy Roasting :)
